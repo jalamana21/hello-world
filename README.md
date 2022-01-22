@@ -1,6 +1,11 @@
-# hello-world
+# MERN-ExpensesApplication
 
-Hi Humans!
-jalamana21 here, a novice and trying to explore this github. 
+Welcome to <_name_> application.
+* Monitor Income/Expenses
+* 
 
-Thanks!
+
+// APPLICATION DETAILS
+- MONGO DB
+- NodeJS
+- ReactJS
